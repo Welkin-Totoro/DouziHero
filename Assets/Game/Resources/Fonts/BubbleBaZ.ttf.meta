@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 747481607fb0f0f489d6e0652e6b9228
+timeCreated: 1492666422
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BubbleBaZ
+  fontNames:
+  - BubbleBaZ
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

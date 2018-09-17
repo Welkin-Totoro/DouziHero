@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: eb85451b3991eec4b96aa3eae05cb9f9
+timeCreated: 1492683170
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FireBall
+    21300002: ArrowRain
+    21300004: Lighting
+    21300006: Icons_for_game_2__by_Jonik9i_3
+    21300008: Icons_for_game_2__by_Jonik9i_4
+    21300010: Icons_for_game_2__by_Jonik9i_5
+    21300012: Icons_for_game_2__by_Jonik9i_6
+    21300014: Icons_for_game_2__by_Jonik9i_7
+    21300016: Icons_for_game_2__by_Jonik9i_8
+    21300018: Icons_for_game_2__by_Jonik9i_9
+    21300020: Icons_for_game_2__by_Jonik9i_10
+    21300022: Icons_for_game_2__by_Jonik9i_11
+    21300024: Icons_for_game_2__by_Jonik9i_12
+    21300026: Icons_for_game_2__by_Jonik9i_13
+    21300028: Icons_for_game_2__by_Jonik9i_14
+    21300030: Icons_for_game_2__by_Jonik9i_15
+    21300032: Icons_for_game_2__by_Jonik9i_16
+    21300034: Icons_for_game_2__by_Jonik9i_17
+    21300036: Icons_for_game_2__by_Jonik9i_18
+    21300038: Icons_for_game_2__by_Jonik9i_19
+    21300040: Icons_for_game_2__by_Jonik9i_20
+    21300042: Icons_for_game_2__by_Jonik9i_21
+    21300044: Icons_for_game_2__by_Jonik9i_22
+    21300046: Icons_for_game_2__by_Jonik9i_23
+    21300048: Icons_for_game_2__by_Jonik9i_24
+    21300050: Icons_for_game_2__by_Jonik9i_25
+    21300052: Icons_for_game_2__by_Jonik9i_26
+    21300054: Icons_for_game_2__by_Jonik9i_27
+    21300056: Icons_for_game_2__by_Jonik9i_28
+    21300058: Icons_for_game_2__by_Jonik9i_29
+    21300060: Icons_for_game_2__by_Jonik9i_30
+    21300062: Icons_for_game_2__by_Jonik9i_31
+    21300064: Icons_for_game_2__by_Jonik9i_32
+    21300066: Icons_for_game_2__by_Jonik9i_33
+    21300068: Icons_for_game_2__by_Jonik9i_34
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 14, y: 62, z: 14, w: 21}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FireBall
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 152
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ArrowRain
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 396
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lighting
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 72
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
